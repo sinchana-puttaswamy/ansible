@@ -1,0 +1,346 @@
+    1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  sudo apt install build-essential dkms linux-headers-($sinchana-r)
+    4  sudo apt install build-essential dkms linux-headers-$(sinchana-r)
+    5  ifconfig
+    6  sudo apt install net-tools
+    7  ifconfig
+    8  sudo apt install openssh-server
+    9  sudo apt install net-tools
+   10  sudo apt install nmap
+   11  netmap
+   12  netcap
+   13  \nmap
+   14  ifconfig
+   15  sudo apt-get update
+   16  sudo apt-get upgrade
+   17  sudo apt install nmap
+   18  sudo apt install software-properties-common
+   19  sudo add-apt-repository --yeas --update ppa:ansible/ansible
+   20  sudo add-apt-r
+   21  sudo apt install ansible
+   22  whaami
+   23  whoami
+   24  ssh-keygen
+   25  ssh-copy-id node11@10.0.3.15
+   26  ssh-copy-id sinchana1@10.0.3.15
+   27  whoami
+   28  sudo systemctl status ssh
+   29  sudo apt update
+   30  sudo apt install openssh-server
+   31  ssh-copy-id sinchana1@10.0.3.15
+   32  sudo systemctl status ssh
+   33  sudo apt update
+   34  sudo apt upgrade
+   35  sudo apt install openssh-server
+   36  ssh-copy-id sinchana1@10.0.3.15
+   37  ifconfig
+   38  ssh-keygen
+   39  ssh-copy-id sinchana1@192.168.1.7
+   40  ssh sinchana1@192.168.1.7
+   41  history
+   42  ifconfig
+   43  sudo vi/etc/ansible/hots
+   44  sudo vi/etc/ansible/hosts
+   45  exit
+   46  sudo vi/etc/ansible/hosts
+   47  clear
+   48  cd home
+   49  cd ..
+   50  cd etc/ansible/hosts
+   51  sudo vi/etc/ansible/hosts
+   52  sudo gedit/etc/ansible/hosts
+   53  cd 
+   54  sudo gedit/etc/ansible/hosts
+   55  sudo vi
+   56  ansible
+   57  ansible --version
+   58  ansible all -, ping
+   59  cd /etc/ansible
+   60  vi hosts
+   61  cd /etc/ansible
+   62  vi hosts
+   63  cd /etc/ansible
+   64  gedit hosts
+   65  sudo gedit hosts
+   66  ansible -m ping
+   67  gedit hosts
+   68  sudo gedit hosts
+   69  ansible -m ping
+   70  ansible all -m ping
+   71  cd 
+   72  ls
+   73  cd /
+   74  ls
+   75  cd 
+   76  clear
+   77  ssh-copy-id
+   78  cd /etc/ansible
+   79  sudo gedit hosts
+   80  ansible all -m ping
+   81  ssh-copy-id 192.168.1.73
+   82  ansible all -m ping
+   83  ssh-copy-i
+   84  ansible all -m ping
+   85  s
+   86  cd 
+   87  ssh-copy-id 192.168.1.7.3
+   88  ansible all -m ping
+   89  ssh-copy-id 192.168.1.7.3
+   90  cd /etc/ansible
+   91  sudo gedit hosts
+   92  ssh-copy-id 192.168.1.7.3
+   93  ssh-copy-id 192.168.1.73
+   94  ssh-copy-id 192.168.1.7.3
+   95  ifconfig
+   96  ssh-copy-id 192.168.1.6
+   97  ssh-copy-id 192.168.1.7.3
+   98  ssh-copy-id -f  192.168.1.7.3
+   99  clear
+  100  ssh-copy-id -f  192.168.1.7
+  101  cd /etc/ansible
+  102  sudo gedit hosts
+  103  ssh-copy-id -f  192.168.1.7
+  104  ansible all -m ping
+  105  cd /etc/ansible
+  106  cd 
+  107  sudo gedit hosts
+  108  cd /etc/ansible
+  109  sudo gedit hosts
+  110  cd
+  111  cd /etc/ansible
+  112  ssh-copy-id -f  192.168.1.7
+  113  ansible all -m ping
+  114  cd /etc/ansible
+  115  ssh-copy-id -f  192.168.1.7
+  116  CD
+  117  ssh-copy-id -f  192.168.1.7
+  118  ssh-copy-id -f  sinchana1
+  119  ssh-copy-id -f  sinchana1@192.168.1.7
+  120  ansible all -m ping
+  121  cd /etc/ansible
+  122  sudo gedit hosts
+  123  cd
+  124  cd /etc/ansible
+  125  sudo gedit hosts
+  126  ansible all -m ping
+  127  cd
+  128  ansible prod -m copy -a 'src=/etc/hosts dest=/tmp'
+  129  ansible prod -m copy -a 'src=/etc/hosts dest=/tmp' --b
+  130  ls
+  131  cat /etc/ansible/ansible.cfg
+  132  pwd
+  133  ls
+  134  touch myInventory.txt
+  135  sudo gedit myInventory.txt
+  136  ansible thbs_solution -m shell -a unmae -i myInventory.txt
+  137  sudo gedit myInventory.txt
+  138  hostname
+  139  uname -a
+  140  ansible thbs_solution -m shell -a 'uname-a'  -i myInventory.txt
+  141  ansible thbs_solution -m shell -a 'uname -a'  -i myInventory.txt
+  142  ansible all -m ping
+  143  ansible thbs_solution -m shell -a 'uname -df'  -i myInventory.txt
+  144  ansible all -m ping
+  145  ansible thbs_solution -m shell -a 'uname -df'  -i myInventory.txt
+  146  ansible all -m ping
+  147  ansible thbs_solution -m shell -a 'uname -df'  -i myInventory.txt
+  148  clear
+  149  ansible all -m ping
+  150  ansible thbs_solution -m shell -a 'uname -df'  -i myInventory.txt
+  151  sudo gedit myInventory.txt
+  152  sudo gedit hosts
+  153  sudo gedit myInventory.txt
+  154  ansible thbs_solution -m shell -a 'uname -df'  -i myInventory.txt
+  155  sudo gedit myInventory.txt
+  156  ansible thbs_solution -m shell -a 'uname -df'  -i myInventory.txt
+  157  sudo gedit myInventory.txt
+  158  ansible thbs_solution -m shell -a 'uname -a'  -i myInventory.txt
+  159  ansible thbs_solution -m shell -a 'uname -d'  -i myInventory.txt
+  160  ansible thbs_solution -m shell -a 'uname -a'  -i myInventory.txt
+  161  clear
+  162  sudo gedit myInventory.txt
+  163  clear
+  164  sudo gedit myInventory.txt
+  165  ansible thbs_solution -m shell -a 'uname -a'  -i myInventory.txt
+  166  ansible thbs_solution -m shell -a 'uname -h'  -i myInventory.txt
+  167  ansible thbs_solution -m shell -a 'uname -dh'  -i myInventory.txt
+  168  ansible thbs_solution -m shell -a 'uname --dh'  -i myInventory.txt
+  169  clear
+  170  ansible thbs_solution -m shell -a 'uname -a'  -i myInventory.txt
+  171  ansible thbs_solution -m shell -a 'df -h'  -i myInventory.txt
+  172  ansible -i file -myInventory.txt setup hostgroup
+  173  sudo gedit hello.yml
+  174  ansible -m file -a 'path=/temp/sinchana.txt state=touch' all
+  175  sudo gedit hello.yml
+  176  clear
+  177  ansible -m all ping
+  178  sudo gedit hello.yml
+  179  ansible-playbook hello.yml
+  180  ansible -m file -a 'path=/temp/sinchana.txt state=touch' all
+  181  clear
+  182  ansible -m file -a 'path=/temp/sinchana.txt state=touch' all
+  183  ifconfig
+  184  -copy-ssh-id -f sinchana1@192.168.1.8
+  185  copy-ssh-id -f sinchana1@192.168.1.8
+  186  ssh-copy-id -f sinchana1@192.168.1.8
+  187  aansible all -m ping
+  188  ansible all -m ping
+  189  cd /etc/ansible
+  190  sudo gedit hosts
+  191  cd
+  192  clear
+  193  ssh-copy-id -f sinchana1@192.168.1.8
+  194  ansible all -m ping
+  195  ssh-copy-id -f sinchana1@192.168.1.8
+  196  ansible -m file -a 'path=/temp/sinchana.txt state=touch' all
+  197  clear
+  198  cd /temp
+  199  ls
+  200  cd home
+  201  ansible -m file -a 'path=/temp/shahbaz.txt state=touch' 
+  202  ansible -m file -a 'path=/tmp/shahbaz.txt state=touch' all
+  203  cd tmp
+  204  cd /tmp
+  205  clear
+  206  sudo gedit hello.yml
+  207  ansible-playbook hello.yml
+  208  sudo gedit second.yml
+  209  ansible-playbook second.yml
+  210  sudo gedit second.yml
+  211  ansible-playbook second.yml -ask-pass
+  212  cd
+  213  ansible-playbook second.yml -ask-pass
+  214  sudo gedit second.yml
+  215  ls
+  216  cd/tmp/ sudo gedit second.yml
+  217  cd/tmp
+  218  cd /tmp
+  219  sudo gedit second.yml
+  220  ansible-playbook second.yml -k
+  221  ls
+  222  ansible-playbook second.yml -k
+  223  cd /tmp
+  224  ls
+  225  clear
+  226  sudo gedit install.yml
+  227  ansible-playbook install.yml 
+  228  cd 
+  229  clear
+  230  ansible-playbook install.yml 
+  231  sudo gedit install.yml
+  232  ansible-playbook install.yml 
+  233  sudo gedit install.yml
+  234  clear
+  235  ansible-playbook install.yml 
+  236  gedit install.yml
+  237  ansible-playbook install.yml 
+  238  sudo gedit index.html
+  239  clear
+  240  ls
+  241  ansible-playbook install.yml 
+  242  ssh-copy-id -f sinchana1@192.168.1.8
+  243  ansible all -m ping
+  244  clear
+  245  ansible-playbook install.yml 
+  246  sudo gedit index1.html
+  247  sudo gedit index1.yml
+  248  ansible-playbook install1.yml 
+  249  ls
+  250  ansible-playbook index1.yml 
+  251  lsclear
+  252  clear
+  253  sudo gedit index.html
+  254  sudo gedit install.yml
+  255  ansible-playbook install.yml 
+  256  sudo gedit install.yml
+  257  ansible-playbook install.yml 
+  258  ansible-playbook install.yml -k
+  259  ansible-playbook install.yml -k 
+  260  clear
+  261  ansible-playbook install.yml -k 
+  262  sudo gedit hosts
+  263  cd /etc/ansible
+  264  sudo gedit hosts
+  265  clear
+  266  ansible-playbook install.yml -k 
+  267  ls
+  268  cd
+  269  ansible-playbook install.yml -k 
+  270  adoc
+  271  ansible -m ping
+  272  clear
+  273  ansible -m ping all
+  274  ansible-playbook install.yml -k 
+  275  ansible-playbook install.yml --syntax check
+  276  ansible-playbook install.yml --syntax-check
+  277  clear
+  278  ifconfig
+  279  clear
+  280  ansible-playbook install.yml --syntax-check
+  281  ansible-playbook install.yml -k 
+  282  ansible-playbook install.yml --become-ask-pass
+  283  ansible-playbook install.yml ---ask-become-pass
+  284  ansible-playbook install.yml --ask-become-pass
+  285  sudo gedit index.html
+  286  ansible-playbook install.yml --ask-become-pass
+  287  sudo gedit index.html
+  288  ls
+  289  sudo gedit install.yml
+  290  ansible-playbook install.yml --ask-become-pass
+  291  sudo gedit git-install.yml
+  292  ansible-playbook git-install.yml --ask-become-pass
+  293  sudo gedit git-install.yml
+  294  ansible-playbook git-install.yml --ask-become-pass
+  295  sudo gedit git-install.yml
+  296  ansible-playbook git-install.yml --ask-become-pass
+  297  sudo gedit git-install.yml
+  298  ansible-playbook git-install.yml --ask-become-pass
+  299  sudo gedit git-install.yml
+  300  ansible-playbook git-install.yml --ask-become-pass
+  301  sudo gedit git-install.yml
+  302  ansible-playbook git-install.yml --ask-become-pass
+  303  sudo gedit git-install.yml
+  304  ansible-playbook git-install.yml --ask-become-pass
+  305  sudo gedit git-install.yml
+  306  ansible-playbook git-install.yml --ask-become-pass
+  307  ansible-playbook git-install.yml -k
+  308  ansible-playbook git-install.yml --ask-become-pass
+  309  cat git-install.yml 
+  310  ansible-playbook git-install.yml --ask-become-pass
+  311  ansible-vault create git-install.yml
+  312  ansible-vault edit git-install.yml
+  313  ansible-vault encrypt git-install.yml
+  314  ansible-vault encrypt git-install.yml -k
+  315  ansible-vault encrypt git-install.yml 
+  316  ansible-vault encrypt git-install.yml -vvv
+  317  clear
+  318  ansible-vault encrypt git-install.yml -vvv
+  319  clear
+  320  ansible-playbook git-install.yml --ask-become-pass
+  321  ansible-playbook git-install.yml -k
+  322  sudo gedit loop.yml
+  323  ansible-playbook loop.yml --ask-become-pass
+  324  clear
+  325  ansible-playbook loop.yml --k
+  326  ansible-playbook loop.yml -k
+  327  clear
+  328  sudo gedit loop.yml
+  329  ansible-playbook loop.yml -k
+  330  ansible-playbook loop.yml --ask-become-pass
+  331  ls
+  332  ansible-playbook git-install.yml --ask-become-pass
+  333  sudo  git-install.yml 
+  334  sudo gedit  git-install.yml 
+  335  ansible-playbook git-install.yml --ask-become-pass
+  336  sudo gedit  git-install.yml 
+  337  ls
+  338  clear
+  339  ls
+  340  sudo gedit  git-install.yml 
+  341  sudo gedit  var_basic.yml 
+  342  ansible-playbook var_basic.yml --ask-become-pass
+  343  sudo gedit  var_basic.yml 
+  344  ansible-playbook var_basic.yml --ask-become-pass
+  345  sudo gedit  var_basic.yml 
+  346  history>history.txt
