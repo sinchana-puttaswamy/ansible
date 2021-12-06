@@ -1,0 +1,277 @@
+    1  exit
+    2  systemctl status
+    3  systemctl status docker
+    4  docker images
+    5  docker images ls
+    6  docker images -a
+    7  docker container stop feb59fea6a5
+    8  docker container stop feb5d9fea6a5
+    9  exit
+   10  docker container stop feb5d9fea6a5
+   11  cd
+   12  exit
+   13  docker container ps -a
+   14  docker container ps 
+   15  docker container stop 6fa9a239b1bd 
+   16  docker container stop 4500b05d091d 
+   17  docker container stop 94d1fd5701b2 
+   18  docker container 
+   19  docker rm hello-world
+   20  docker rmi hello-world
+   21  docker rmi hello-worlddocker rmi 6fa9a239b1bd 
+   22  docker  rmi 6fa9a239b1bd 
+   23  docker  rmi 6fa9a239b1bd cd
+   24  exit
+   25  docker images
+   26  docker rmi feb5d9fea6a5 
+   27  docker stop feb5d9fea6a5 
+   28  docker ps -s
+   29  docker ps -a
+   30  docker stop roman
+   31  docker container start
+   32  docker start hello-world
+   33  docker start roman
+   34  docker ps
+   35  docker ps -a
+   36  docker container -it sinchana hello-world /bin/bash
+   37  docker container -d  sinchana hello-world /bin/bash
+   38  docker container -d  --sinchana hello-world /bin/bash
+   39  docker container -it  --sinchana hello-world /bin/bash
+   40  docker container ps
+   41  docker container ps -a
+   42  docker docker container rm 6fa9a239b1bd 
+   43  docker container rm 6fa9a239b1bd 
+   44  docker container ps -a
+   45  docker container rm  500b05d091d 
+   46  docker container ps -a
+   47  docker container rm  4500b05d091d 
+   48  docker container ps -a
+   49  docker container rm  94d1fd5701b2
+   50  docker container ps -a
+   51  docker rm hello-world
+   52  docker rmi hello-world
+   53  docker images
+   54  docker run hello-world
+   55  docker ps -a
+   56  docker ps 
+   57  docker ps
+   58  docker ps -a
+   59  docker container start
+   60  docker container start hello-world
+   61  docker ps -a
+   62  docker start f67ad9d09194 
+   63  docker ps -a
+   64  docker ps 
+   65  docker start f67ad9d09194 
+   66  docker ps 
+   67  docker start f67ad9d09194 
+   68  docker attach f67ad9d09194 
+   69  docker container start  f67ad9d09194 
+   70  docker ps 
+   71  docker ps -a
+   72  docker container rm f67ad9d09194 
+   73  docker container start  f67ad9d09194 
+   74  docker images
+   75  docker container start hello-world
+   76  docker container start
+   77  docker container start feb5d9fea6a5
+   78  docker run --name sinchana hello-world
+   79  docker run -it  --name sinchana hello-world
+   80  docker run -it  --name sinchana hello-world /bin/bash
+   81  docker run -it  --name sinchana1 hello-world /bin/bash
+   82  docker run -it  --name sinchana1 hello-world 
+   83  docker run -it  --name sinchana2 hello-world 
+   84  docker images
+   85  docker run --name sinchana hello-world
+   86  docker run -help
+   87  docker run hello_world
+   88  docker run hello-world
+   89  docker rmi hello-world
+   90  docker ps -a
+   91  docker container prune
+   92  docker ps -a
+   93  docker rmi hello-world
+   94  docker images
+   95  docker pull hello-world
+   96  docker run -it ubuntu bash
+   97  docker images
+   98  docker ps -a
+   99  docker container start  funny_m
+  100  docker container ls
+  101  docker container ps -a
+  102  docker container ps ls -a
+  103  docker container  ls -a
+  104  docker run ubuntu
+  105  docker container  ls -a
+  106  docker start 9cfb688bfb57 
+  107  docker container  ls 
+  108  docker ps -a
+  109  docker ps 
+  110  docker run 9cfb688bfb57 
+  111  docker attach 9cfb688bfb57 
+  112  docker start 9cfb688bfb57 
+  113  docker container 9cfb688bfb57 
+  114  docker start --help
+  115  docker --attach 9cfb688bfb57 
+  116  docker start --help
+  117  docker start -a 9cfb688bfb57 
+  118  docker container ps
+  119  docker ps -a
+  120  docker container start 9cfb688bfb57  
+  121  docker attach 9cfb688bfb57  
+  122  docker attach -help
+  123  docker attach --help
+  124  docker container attach 9cfb688bfb57  
+  125  docker exec -it 9cfb688bfb57  
+  126  docker exec -it 9cfb688bfb57  bash
+  127  docker ps -a
+  128  docker exec -it 9cfb688bfb57  bash
+  129  docker ps -a
+  130  docker exec -it festive_hellman /bin/bash
+  131  docker ps 
+  132  docker exec -it festive_hellman /bash
+  133  docker ps -a
+  134  docker start 
+  135  docker ps -a
+  136  docker ps 
+  137  docker ps -a
+  138  docker exec -it 9cfb688bfb57 
+  139  docker exec -it 9cfb688bfb57 bash
+  140  docker start 9cfb688bfb57 
+  141  docker exec -it 9cfb688bfb57 bash
+  142  docker start festive_hellman
+  143  docker exec -it  festive_hellman bash
+  144  docker start 9cfb688bfb57152c496866aa50560342c7ae723be468f1c4de2b86e61cccef9d 
+  145  docker exec -it  9cfb688bfb57152c496866aa50560342c7ae723be468f1c4de2b86e61cccef9d  bash
+  146  docker ps -a
+  147  docker ls
+  148  docker container ls
+  149  docker container ls -a
+  150  docker start funny_mirzakhani
+  151  docker exec -it funny_mirzakhani bash
+  152  docker start funny_mirzakhani
+  153  docker exec -it funny_mirzakhani bash
+  154  docker ps -a
+  155  docker ps 
+  156  docker stop funny_mirzakhani
+  157  docker ps 
+  158  docker ps -a
+  159  docker docker container hello-world
+  160  docker docker container create 
+  161  docker docker  create --help
+  162  docker create hello_world
+  163  docker create ubuntu
+  164  history
+  165  clear
+  166  docker images
+  167  docker pull centos
+  168  docker images
+  169  docker run --name mycentos centos
+  170  docker ls
+  171  docker container ls
+  172  docker ps
+  173  docker ps -a
+  174  docker run --name mycentos centos
+  175  docker run --name mycentos centos /bsdh
+  176  docker start mycentos
+  177  docker exec -it mycentos bash
+  178  docker start mycentos
+  179  docker ps -a
+  180  docker container start 740e9040dbdc 
+  181  docker exec -it  740e9040dbdc /bin/ bash
+  182  docker ps -a
+  183  docker  start 740e9040dbdc 
+  184  docker exec -it  740e9040dbdc /bin/ bash
+  185  docker ps -a
+  186  docker  start mycentos
+  187  docker exec -it 740e9040dbdc  /bin/ bash
+  188  docker  start mycentos
+  189  docker exec -it mycentos  /bin/ bash
+  190  docker  start mycentos
+  191  docker exec -it mycentos bash
+  192  docker start mycentos
+  193  docker exec -it mycentos bash
+  194  dpkg -l | wc -l
+  195  docker exec -it mycentos bash
+  196  docker exec -it mycentos /bash
+  197  docker start funny_mirzakhani
+  198  docker exec -it funny_mirzakhani bash
+  199  docker ps -a
+  200  docker start 09e9b6f92c2f
+  201  docker exec -it 09e9b6f92c2f bash
+  202  docker ps -a
+  203  docker start nice_clarke
+  204  docker exec -it nice_clarke bash
+  205  docker start festive_hellman
+  206  docker exec -it festive_hellman
+  207  docker exec -it festive_hellman bash
+  208  docker start festive_hellman
+  209  docker exec -it festive_hellman bash
+  210  docker start festive_hellman bash
+  211  docker start festive_hellman 
+  212  docker start festive_hellman bash
+  213  docker start festive_hellman 
+  214  docker exec -it festive_hellman bash
+  215  docker container start festive_hellman 
+  216  docker container  exec -it festive_hellman bash
+  217  docker prune
+  218  docker container prune
+  219  docker ps
+  220  docker ps -a
+  221  docker stop funny_mirzakhani
+  222  docker ps -a
+  223  docker ps
+  224  docker rmi images
+  225  docke
+  226  docker ps
+  227  docker ps -a
+  228  docker stop 2de9113cd14a 
+  229  docker ps -a
+  230  docker container  stop 2de9113cd14a 
+  231  docker ps -a
+  232  docker container prune
+  233  docker ps
+  234  docker ps -a
+  235  docker images
+  236  docker rm centos
+  237  docker images rm centos
+  238  docker images rmi centos
+  239  docker rmi hello-world
+  240  docker images
+  241  docker rmi ubuntu
+  242  docker rmi centos
+  243  docker images
+  244  docker rmi images($docker images -aq)
+  245  docker rmi images $(docker images -aq)
+  246  docker run -d -it --name sinch_node_js node
+  247  node -b
+  248  docker images
+  249  docker container ls
+  250  docker container 
+  251  docker images
+  252  docker ps 
+  253  docker ps -a
+  254  docker ps 
+  255  docker images
+  256  docker ps 
+  257  docker exec -it sinch_node_js bash
+  258  docker ps
+  259  docker stop sinch_node_js
+  260  docker start sinch_node_js
+  261  docker ps
+  262  docker stop sinch_node_js
+  263  docker ps
+  264  docker logs sinch_node_js
+  265  exit
+  266  docker ps
+  267  docker ps -a
+  268  docker stop sinch_node_js 
+  269  docker rm sinch_node_js 
+  270  docker ps
+  271  docker ps -a
+  272  docker rmi node
+  273  docker images
+  274  history
+  275  cd home
+  276  ls
+  277  history >docker.txt
